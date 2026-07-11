@@ -1,6 +1,6 @@
 # CCNA Materials
 
-🌍 **English** | [Magyar](README.md)
+🌍 **English** | Magyar
 
 A collection of study materials for the **Cisco CCNA** certification and Cisco Networking Academy (NetAcad) courses — lecture slides, module presentations, and practical guides covering routing, switching, and wireless networking.
 
@@ -37,7 +37,7 @@ Note: This repository does not contain the full courses — only materials that 
 
 # CCNA tananyagok
 
-🌍 [English](README.md) | **Magyar**
+🌍 English | **Magyar**
 
 Tanulási segédanyagok a **Cisco CCNA** vizsgához és a Cisco Hálózati Akadémia (NetAcad) kurzusaihoz — előadásdiák, modulprezentációk és gyakorlati útmutatók a forgalomirányítás (routing), a kapcsolás (switching) és a vezeték nélküli hálózatok témaköreiben.
 
